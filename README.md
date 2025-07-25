@@ -19,4 +19,4 @@ Run the notebook `diamond_price_prediction.ipynb` to follow the full pipeline an
 
 ---
 
-*Predict smarter. Shine brighter.* ✨
+
